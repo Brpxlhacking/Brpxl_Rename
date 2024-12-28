@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "BRPXLHACKING")
              # Subscribe YouTube Channel For Amazing Bot @HEART_HACKERBIO
              # Ask Doubt on telegram @HEART_HACK3R_149
 
-DB_NAME = os.environ.get("DB_NAME", "brpxlrenamebot")     
+DB_NAME = os.environ.get("DB_NAME", "brpxl_renamebot")     
 
 DB_URL = os.environ.get("DB_URL", "")
  
